@@ -9,7 +9,7 @@ This project aims to predict the winning team in IPL (Indian Premier League) mat
 
 **1. Data Preparation**
 
-      -Data Cleaning: The dataset is cleaned and preprocessed to handle missing values, categorical variables, and other inconsistencies.
+     -Data Cleaning: The dataset is cleaned and preprocessed to handle missing values, categorical variables, and other inconsistencies.
 
      -Feature Engineering:features such as team performance, player statistics, and match conditions are engineered to enhance model performance.
 
