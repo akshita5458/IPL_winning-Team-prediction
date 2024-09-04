@@ -11,7 +11,7 @@ This project aims to predict the winning team in IPL (Indian Premier League) mat
 
      -Data Cleaning: The dataset is cleaned and preprocessed to handle missing values, categorical variables, and other inconsistencies.
 
-     -Feature Engineering:features such as team performance, player statistics, and match conditions are engineered to enhance model performance.
+     -Feature Engineering: Features such as team performance, player statistics, and match conditions are engineered to enhance model performance.
 
      -One-Hot Encoding: Categorical variables (e.g., team names, match venues) are converted into numerical values using One-Hot Encoding for compatibility with 
                           machine learning algorithms.
