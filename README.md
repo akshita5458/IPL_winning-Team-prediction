@@ -2,6 +2,8 @@
 
 This project aims to predict the winning team in IPL (Indian Premier League) matches using machine learning models. The prediction is based on various match-related features and utilizes three different algorithms: Random Forest, Support Vector Machine (SVM), and Logistic Regression. The models are trained on historical match data and their predictions are served through a web-based interface built with Streamlit.
 
+[LINKEDPOST](https://www.linkedin.com/posts/akshita-s-13b239251_machinelearning-iplabrwinningabrteamabrprediction-activity-7237258884363546624-wpJW?utm_source=share&utm_medium=member_desktop)
+
 ![Screenshot 2024-09-04 180707](https://github.com/user-attachments/assets/2854606a-af57-4c7d-9651-d441e5751b02)
 
 ## Key Components ## 
